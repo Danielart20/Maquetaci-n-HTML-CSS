@@ -100,7 +100,7 @@ h3{
     text-decoration: none;
     font-size: 14px;
     font-family: 'Raleway', sans-serif;
-    position: absolute;
+    padding: 20px;
     width: 200px;
     height: 60px;
     text-align: center;
@@ -116,7 +116,7 @@ h3{
 }
 .boton-header2{
     color: white;
-    margin-left: 250px;
+    margin-left: 50px;
     border: 1px solid white;
 }
 .boton-paper{
